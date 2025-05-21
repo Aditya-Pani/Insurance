@@ -25,10 +25,10 @@ The goal of this project is to create interactive and insightful dashboards usin
 ## 📉 Key Visuals
 
 - Total Premiums & Claims (Card Visuals)
-- Gender & Region-wise Breakdown (Bar/Line Charts)
+- Gender Breakdown (Multi Row Card)
 - Policy Type Summary (Donut Chart)
-- Agent-wise Performance (Matrix/Ribbon Chart)
-- Interactive Slicers (Date, Region, Gender)
+- Number of Claim By Claim Status (Ribbon Chart)
+- Interactive Slicers (Customer ID, Claim Number)
 - Drill-Through Pages
 
 ---
